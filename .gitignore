@@ -2,9 +2,6 @@
 /target/
 /.idea/sonarlint/
 
-# Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,java,database
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,java,database
-
 ### Database ###
 *.accdb
 *.db
@@ -116,4 +113,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,java,database
-1
